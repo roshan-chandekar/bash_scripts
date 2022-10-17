@@ -27,7 +27,7 @@ sudo apt-get update
 *                           JAVA 8 Installation                                        *
 ****************************************************************************************
 
-sudo apt install openjdk-8-jdk -y
+sudo apt install java-openjdk11 -y
 
 ****************************************************************************************
 *                           Jenkins Installation                                       *
