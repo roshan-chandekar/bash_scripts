@@ -24,7 +24,7 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
 sudo apt-get update
 
 ****************************************************************************************
-*                           JAVA 8 Installation                                        *
+*                           JAVA 11 Installation                                        *
 ****************************************************************************************
 
 sudo apt install java-openjdk11 -y
